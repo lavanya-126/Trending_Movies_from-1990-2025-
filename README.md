@@ -1,4 +1,5 @@
 # 🎯 Project Overview
+Dataset From Kaggle: https://www.kaggle.com/datasets/amitksingh2103/trending-movies-over-the-years 
 
 # 🎬 Movie Recommendation System – Full Data Science Pipeline + GUI
 This project demonstrates a complete data science pipeline on a movie dataset—from raw CSV to a fully working movie recommender web app. It uses NLP + EDA + GUI development to recommend movies based on keyword inputs.
