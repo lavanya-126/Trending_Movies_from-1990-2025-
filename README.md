@@ -37,11 +37,14 @@ This project demonstrates a complete data science pipeline on a movie dataset—
 3. Pre-1950s, very few movies are recorded—indicating either limited data or actual lower production.
 ![{0A1078ED-05C2-4917-ACB9-ED71B95DCD1F}](https://github.com/user-attachments/assets/b64a4fb4-182a-471f-99c3-3efe632268f6)
 
-# Average Popularity Over Time¶
+# Average Popularity Over Time
 1. The 1940s and 2020s show sudden spikes, possibly due to outlier films with massive popularity scores.
 2. Overall, popularity remains fairly stable with slight increases in the modern era, likely due to streaming and marketing reach.
 3. A dip is observed post-2020, possibly due to the pandemic's impact on movie releases.
-![{DCFD4836-EFDD-4882-85D6-60BAB74B5B7E}](https://github.com/user-attachments/assets/885044bd-44d0-498b-a4db-fe220eb36cf0)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/885044bd-44d0-498b-a4db-fe220eb36cf0" alt="DCFD4836-EFDD-4882-85D6-60BAB74B5B7E" width="600">
+</p>
+
 
 # Top 10 Original Languages
 1. English ('en') dominates the dataset with a huge margin.
