@@ -6,12 +6,12 @@ This project demonstrates a complete data science pipeline on a movie dataset—
 # ✅ Summary of What I Did
 
 # Step	Description
-🔍 Data Cleaning	Removed nulls, duplicates, converted dates
-📊 Exploratory Analysis	Plotted distributions, trends, and data stats
-☁️ Wordcloud Analysis	Generated common keyword cloud from overviews
-🕒 Time Series Plotting	Trend of movie releases over years
-🤖 TF-IDF Recommender	Built a model using movie overviews + cosine similarity
-🌐 Flask Web App GUI	Created a movie search interface using Flask with live keyword querying
+
+1. Data Cleaning	Removed nulls, duplicates, converted dates
+2. Exploratory Analysis	Plotted distributions, trends, and data stats
+3. Wordcloud Analysis	Generated common keyword cloud from overviews
+4. Time Series Plotting	Trend of movie releases over years
+5. TF-IDF Recommender	Built a model using movie overviews + cosine similarity
 
 # 📌 Results & Insights
 
@@ -59,6 +59,7 @@ This project demonstrates a complete data science pipeline on a movie dataset—
 1. Vectorized movie overviews using TfidfVectorizer
 2. Compared input keyword with overviews using cosine_similarity
 3. Returned top 10 matches
+
 ![Picture1](https://github.com/user-attachments/assets/085107ff-9a4d-4d73-93ac-4fc879c2a12c)
 ![Picture2](https://github.com/user-attachments/assets/f2ace0ed-14cd-4418-a235-28c4cf2f91d2)
 ![Picture3](https://github.com/user-attachments/assets/2615d412-8b69-4f06-b095-d2d1fb72a092)
